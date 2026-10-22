@@ -1,0 +1,240 @@
+{
+    "home":  {
+                 "title":  "Vuelve a sentirte\ntú. Con confianza.",
+                 "subtitle":  "Tu historia es única. Tu cuidado capilar también debería serlo. Un espacio para explorar tus opciones, con claridad y a tu ritmo.",
+                 "cover_image":  "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format\u0026fit=crop\u0026w=1400\u0026q=85",
+                 "image_alt":  "Retrato editorial de un hombre; imagen de referencia, no es un paciente",
+                 "buttons":  [
+                                 {
+                                     "label":  "Conoce tu primera valoración",
+                                     "url":  "#valoracion"
+                                 },
+                                 {
+                                     "label":  "Explora los tratamientos",
+                                     "url":  "#tratamientos"
+                                 }
+                             ],
+                 "presentation":  "Decisiones informadas. Expectativas realistas.",
+                 "copy":  {
+                              "hero_eyebrow":  "UNA NUEVA PERSPECTIVA PARA TU CABELLO",
+                              "hero_note":  "Presentación provisional · Nombre y ciudad por definir",
+                              "image_caption":  "IMAGEN EDITORIAL · NO ES UN PACIENTE",
+                              "portrait_label":  "Una decisión personal.\nUn enfoque a tu medida.",
+                              "vertical_label":  "EL COMIENZO DE TU PRÓXIMO CAPÍTULO",
+                              "hero_bottom":  "CUIDADO CAPILAR CON OTRA MIRADA",
+                              "hero_explore":  "Descubre el enfoque",
+                              "hero_step":  "01 — EXPLORAR",
+                              "botanical_label":  "CADA HISTORIA ES DIFERENTE",
+                              "consultation_note":  "Nombre, ciudad y canales de contacto por definir.\nEsta presentación no ofrece atención médica ni sustituye una consulta."
+                          },
+                 "sections":  [
+                                  {
+                                      "key":  "principles",
+                                      "enabled":  true,
+                                      "items":  [
+                                                    {
+                                                        "title":  "Cada persona, un enfoque",
+                                                        "text":  ""
+                                                    },
+                                                    {
+                                                        "title":  "Escucha antes de decidir",
+                                                        "text":  ""
+                                                    },
+                                                    {
+                                                        "title":  "Información con transparencia",
+                                                        "text":  ""
+                                                    }
+                                                ]
+                                  },
+                                  {
+                                      "key":  "treatments",
+                                      "enabled":  true,
+                                      "eyebrow":  "OPCIONES PARA TU CABELLO",
+                                      "title":  "Un nuevo comienzo.\nDiferentes caminos.",
+                                      "description":  "El primer paso no es elegir un tratamiento.\nEs entender qué necesitas.",
+                                      "buttons":  [
+                                                      {
+                                                          "label":  "Ver todos los tratamientos",
+                                                          "url":  "/tratamientos"
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "key":  "approach",
+                                      "enabled":  true,
+                                      "eyebrow":  "LO QUE IMPORTA DE VERDAD",
+                                      "title":  "Más que cabello.\nTu tranquilidad.",
+                                      "description":  "Creemos en una experiencia que empieza por escuchar. Estos son los principios propuestos para la futura clínica.",
+                                      "items":  [
+                                                    {
+                                                        "title":  "Tu caso, con perspectiva",
+                                                        "text":  "Una valoración que ponga tus preguntas y expectativas en el centro."
+                                                    },
+                                                    {
+                                                        "title":  "Claridad en cada paso",
+                                                        "text":  "Información comprensible para decidir sin prisas ni presiones."
+                                                    },
+                                                    {
+                                                        "title":  "Una relación de confianza",
+                                                        "text":  "Un plan de atención y seguimiento que se definirá con el equipo médico."
+                                                    }
+                                                ]
+                                  },
+                                  {
+                                      "key":  "process",
+                                      "enabled":  true,
+                                      "eyebrow":  "EL PRIMER PASO ES UNA CONVERSACIÓN",
+                                      "title":  "De tus preguntas a un plan.",
+                                      "description":  "Así imaginamos el recorrido de valoración. El protocolo definitivo se publicará tras su revisión médica.",
+                                      "items":  [
+                                                    {
+                                                        "title":  "Hablemos de ti",
+                                                        "text":  "Tus inquietudes, tu historia y lo que esperas de esta nueva etapa."
+                                                    },
+                                                    {
+                                                        "title":  "Entendamos tu caso",
+                                                        "text":  "Una valoración profesional para explorar las opciones que puedan ser adecuadas."
+                                                    },
+                                                    {
+                                                        "title":  "Decide con claridad",
+                                                        "text":  "Un plan explicado con detalle, con espacio para tus dudas y tu decisión."
+                                                    }
+                                                ]
+                                  },
+                                  {
+                                      "key":  "specialists",
+                                      "enabled":  true,
+                                      "eyebrow":  "LAS PERSONAS DETRÁS DEL CUIDADO",
+                                      "title":  "El siguiente capítulo\nempieza con confianza.",
+                                      "description":  "Conocer a quien te acompaña forma parte de decidir con tranquilidad. Aquí presentaremos al equipo cuando su información esté verificada.",
+                                      "buttons":  [
+                                                      {
+                                                          "label":  "Conoce al equipo",
+                                                          "url":  "/especialistas"
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "key":  "results",
+                                      "enabled":  true,
+                                      "eyebrow":  "EXPECTATIVAS CON LOS PIES EN LA TIERRA",
+                                      "title":  "Historias reales. Cuando existan.",
+                                      "description":  "La transparencia también es saber esperar. Sin imágenes que prometan lo que aún no está documentado.",
+                                      "buttons":  [
+                                                      {
+                                                          "label":  "Ver la galería",
+                                                          "url":  "/resultados"
+                                                      }
+                                                  ]
+                                  },
+                                  {
+                                      "key":  "faqs",
+                                      "enabled":  true,
+                                      "eyebrow":  "RESOLVAMOS LO ESENCIAL",
+                                      "title":  "Preguntar también\nes avanzar.",
+                                      "description":  "Un punto de partida para tus dudas. La información médica se completará con el equipo."
+                                  },
+                                  {
+                                      "key":  "consultation",
+                                      "enabled":  true,
+                                      "eyebrow":  "TU PRÓXIMO CAPÍTULO",
+                                      "title":  "Todo empieza\ncon una conversación.",
+                                      "description":  "Estamos preparando un espacio para escucharte. Consulta el formulario y comparte tus preferencias cuando esté habilitado.",
+                                      "buttons":  [
+                                                      {
+                                                          "label":  "Solicitar una valoración",
+                                                          "url":  "/agendar-valoracion"
+                                                      }
+                                                  ]
+                                  }
+                              ],
+                 "status":  "draft"
+             },
+    "settings":  {
+                     "trade_name":  "Clínica capilar",
+                     "tagline":  "IDENTIDAD POR DEFINIR",
+                     "footer_text":  "Contenido provisional. Datos legales pendientes.",
+                     "navigation":  [
+                                        {
+                                            "label":  "Tratamientos",
+                                            "url":  "/tratamientos"
+                                        },
+                                        {
+                                            "label":  "Nuestro enfoque",
+                                            "url":  "/#enfoque"
+                                        },
+                                        {
+                                            "label":  "Resultados",
+                                            "url":  "/resultados"
+                                        },
+                                        {
+                                            "label":  "Especialistas",
+                                            "url":  "/especialistas"
+                                        },
+                                        {
+                                            "label":  "Blog",
+                                            "url":  "/blog"
+                                        },
+                                        {
+                                            "label":  "Contacto",
+                                            "url":  "/contacto"
+                                        }
+                                    ],
+                     "pages":  [
+                                   {
+                                       "key":  "tratamientos",
+                                       "title":  "Diferentes caminos. Una decisión personal.",
+                                       "eyebrow":  "EXPLORA TUS OPCIONES",
+                                       "description":  "Conoce el catálogo publicado por la clínica. La información de cada tratamiento no sustituye una valoración profesional."
+                                   },
+                                   {
+                                       "key":  "especialistas",
+                                       "title":  "Conocer a quien te acompaña.",
+                                       "eyebrow":  "LAS PERSONAS DETRÁS DEL CUIDADO",
+                                       "description":  "Perfiles publicados por la clínica. Las credenciales se muestran únicamente después de su verificación documental."
+                                   },
+                                   {
+                                       "key":  "resultados",
+                                       "title":  "Historias reales. Cuando existan.",
+                                       "eyebrow":  "TRANSPARENCIA ANTES QUE PROMESAS",
+                                       "description":  "Solo se publican resultados con consentimiento documentado vigente y revisión de su contexto. No constituyen una promesa de resultados individuales."
+                                   },
+                                   {
+                                       "key":  "blog",
+                                       "title":  "Información con contexto.",
+                                       "eyebrow":  "BLOG",
+                                       "description":  "Artículos publicados por la clínica. El contenido no sustituye una consulta profesional."
+                                   },
+                                   {
+                                       "key":  "contacto",
+                                       "title":  "Todo empieza con una conversación.",
+                                       "eyebrow":  "UN ESPACIO PARA ESCUCHARTE",
+                                       "description":  "Comparte tus dudas a través del formulario. Los datos de ubicación y los canales adicionales se publicarán cuando estén confirmados.",
+                                       "aside_title":  "Una conversación con claridad.",
+                                       "aside_description":  "Solo necesitamos tu nombre, correo y mensaje. El teléfono es opcional."
+                                   },
+                                   {
+                                       "key":  "valoracion",
+                                       "title":  "Tu primer paso, a tu ritmo.",
+                                       "eyebrow":  "SOLICITUD DE VALORACIÓN",
+                                       "description":  "Comparte tus datos de contacto y preferencias. La clínica debe revisar tu solicitud antes de acordar una cita.",
+                                       "aside_title":  "Cuéntanos tus preferencias.",
+                                       "aside_description":  "Selecciona un tratamiento del catálogo publicado. Si todavía no hay opciones disponibles, puedes consultar a través de contacto."
+                                   },
+                                   {
+                                       "key":  "privacidad",
+                                       "title":  "Tus datos merecen claridad.",
+                                       "eyebrow":  "AVISO DE PRIVACIDAD PROVISIONAL",
+                                       "description":  "Este documento es un borrador informativo, no una política definitiva. Debe completarse y revisarse antes de activar los formularios en producción.",
+                                       "content":  "\u003cp\u003eDurante el desarrollo local, los formularios envían datos a la API de la clínica y los guardan en su base de datos. Utiliza únicamente datos ficticios. No se solicitan fotografías ni historial médico.\u003c/p\u003e\u003cp\u003eLos formularios permanecerán bloqueados en producción hasta publicar una política revisada y aprobarla expresamente en la configuración del entorno. Deben completarse los datos del responsable, finalidades, destinatarios, conservación y canales de privacidad.\u003c/p\u003e"
+                                   }
+                               ],
+                     "seo_title":  "Clínica capilar | Una nueva perspectiva para tu cabello",
+                     "seo_description":  "Clínica en desarrollo: identidad, servicios y contenido médico pendientes de confirmación.",
+                     "status":  "draft",
+                     "interface_copy":  {
+                                            "header_cta_label":  "Tu primera valoración",
+                                            "header_cta_url":  "/agendar-valoracion"
+                                        }
+                 }
+}

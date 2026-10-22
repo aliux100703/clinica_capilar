@@ -1,0 +1,9 @@
+export type CmsButton = { label: string; url: string };
+export type CmsSection = { key: string; enabled?: boolean; eyebrow?: string; title?: string; description?: string; items?: { title: string; text?: string }[]; buttons?: CmsButton[] };
+export type PageCopy = { key: string; title: string; eyebrow?: string; description?: string; content?: string; aside_title?: string; aside_description?: string };
+export type HomeContent = { title: string; subtitle?: string; cover_image?: string | null; image_alt?: string; buttons?: CmsButton[]; presentation?: string; sections?: CmsSection[]; copy?: Record<string, string>; seo_title?: string; seo_description?: string };
+export type SiteSettings = { trade_name: string; tagline?: string; logo?: string | null; phone?: string; whatsapp?: string; email?: string; address?: string; social_links?: CmsButton[]; opening_hours?: { days: string; hours: string }[]; contact_information?: string; navigation?: CmsButton[]; footer_text?: string; pages?: PageCopy[]; interface_copy?: Record<string, string>; seo_title?: string; seo_description?: string };
+export type CmsResult = { id: number; treatment_id: number; before_image: string; after_image: string; description: string; evolution_time: string };
+export type CmsPost = { id: number; title: string; slug: string; excerpt: string; content: string; image: string | null; category: string; author: string; medical_reviewer: {name: string; specialty: string} | null; published_at: string; seo_title?: string; seo_description?: string };
+export type CmsTestimonial = { id: number; public_name: string; quote: string; photo: string | null };
+export type CmsFaq = { id: number; question: string; answer: string; category?: string };
